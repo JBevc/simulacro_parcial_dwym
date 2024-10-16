@@ -1,0 +1,15 @@
+#root {
+  min-height: 100vh;
+  padding: 2rem;
+  text-align: center;
+  margin: 0;
+  background-image: linear-gradient(rgb(218, 133, 80), rgb(221, 89, 17));
+}
+
+p {
+  color: white;
+}
+
+h1.title {
+  color: white;
+}
